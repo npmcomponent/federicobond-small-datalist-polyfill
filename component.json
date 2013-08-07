@@ -1,11 +1,8 @@
 {
   "name": "small-datalist-polyfill",
-  "repo": "educabilia/small-datalist-polyfill",
-  "description": "",
+  "repo": "federicobond/small-datalist-polyfill",
+  "description": "HTML5 Datalist polyfill",
   "version": "0.0.1",
-  "keywords": [],
-  "dependencies": {},
-  "development": {},
   "license": "UNLICENSE",
   "main": "index.js",
   "scripts": [
