@@ -1,8 +1,8 @@
-
 # small-datalist-polyfill
 
-  Polyfill for implementing HTML5 datalist in unsupported browsers.
-  Fallbacks to a select input.
+  Polyfill for implementing HTML5 datalist in unsupported browsers, using a select
+  input as fallback. The polyfill is written in pure JavaScript (no Modernizr or
+  jQuery needed).
 
   *Note*: it currently submits the associated form when the select changes.
   You can disable this behavior by setting `data-select-submit="true"` on
