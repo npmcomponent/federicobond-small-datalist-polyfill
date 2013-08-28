@@ -1,5 +1,4 @@
 
-
 # small-datalist-polyfill
 
   Polyfill for implementing HTML5 datalist in unsupported browsers.
@@ -25,6 +24,17 @@
 
   Applies the polyfill. Set the `force` parameter to `true` to apply it even on
   supported browsers (useful for testing).
+
+### setSelectorEngine(selectorEngine)
+
+  Configure the selector engine that the polyfill should use.
+  Defaults to `document.querySelectorAll`.
+
+## Example
+
+    var smallDatalistPolyfill = require("small-datalist-polyfill");
+    smallDatalistPolyfill.setSelectorEngine(qwery);
+    smallDatalistPolyfill.enable();
 
 ## License
 
