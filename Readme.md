@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [federicobond/small-datalist-polyfill](http://github.com/federicobond/small-datalist-polyfill). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/federicobond-small-datalist-polyfill`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # small-datalist-polyfill
 
   Polyfill for implementing HTML5 datalist in unsupported browsers, using a select

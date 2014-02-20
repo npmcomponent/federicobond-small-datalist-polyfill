@@ -1,0 +1,8 @@
+{
+  "name": "federicobond-small-datalist-polyfill",
+  "description": "HTML5 Datalist polyfill",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {},
+  "license": "UNLICENSE"
+}
